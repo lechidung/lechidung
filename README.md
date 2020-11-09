@@ -15,7 +15,7 @@
 Hi, I'm Johnny (Dzung), a passionate self-taught fullstack web developer from Ho Chi Minh City.
 
 - 🔭 I’m currently working on Techbase Vietnam [Realestate Yahoo! Japan project](https://realestate.yahoo.co.jp/)
-- 🌱 I’m currently learning Google clound, ML & AI.
+- 🌱 I’m currently learning Google Cloud, ML & AI.
 - 👯 I’m looking to collaborate on [Viovi.site project](https://viovi.site)
 - 💬 Ask me about anything [here](https://github.com/lechidung/me/issues)
 
