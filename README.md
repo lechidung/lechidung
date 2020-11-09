@@ -31,8 +31,8 @@ Hi, I'm Johnny (Dzung), a passionate self-taught full-stack web developer from H
 <code><img height="20" src="https://github.com/yahoo/athenz/raw/master/docs/images/athenz-logo.png"></code>
 <code><img height="20" src="https://github.com/apache/pulsar/blob/master/site2/website/static/img/pulsar.svg"></code>
 
-<a href="https://github.com/lechidung/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lechidung&show_icons=true&include_all_commits=true&theme=monokai" alt="lechidung's github stats" />
+<a href="https://github.com/lechidung/lechidung">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lechidung&show_icons=true&include_all_commits=true&theme=monokai" alt="lechidung's github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechidung&layout=compact&theme=monokai" />
