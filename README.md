@@ -25,7 +25,7 @@ A passionate self-taught full-stack developer from Ho Chi Minh City.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://deno.land/favicon.svg"></code>
+<code><img height="20" src="https://deno.land/logo.svg"></code>
 <code><img height="20" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://laravel.com/img/logomark.min.svg"></code>
@@ -33,9 +33,6 @@ A passionate self-taught full-stack developer from Ho Chi Minh City.
 <code><img height="20" src="https://github.com/yahoo/athenz/raw/master/docs/images/athenz-logo.png"></code>
 <code><img height="20" src="https://github.com/apache/pulsar/blob/master/site2/website/static/img/pulsar.svg"></code>
 
-<a href="https://github.com/lechidung/lechidung">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lechidung&show_icons=true&include_all_commits=true&theme=monokai" alt="lechidung's github" />
-</a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechidung&layout=compact&theme=monokai" />
 </a>
