@@ -1,4 +1,4 @@
-### Hi there, I'm [Johnny (Dzung)!](https://lcdung.top) 👋
+### Hi there, I'm Johnny (Vietnamese: Lê Chí Dũng - Japanese: レチーユン - Chinese: 黎志勇) 👋
 
 <a href="https://www.linkedin.com/in/dunglc/">
   <svg aria-hidden="true" class="global-nav__logo" xmlns="http://www.w3.org/2000/svg" width="34" height="34" data-supported-dps="34x34" focusable="false">
@@ -8,15 +8,11 @@
         </g>
       </svg>
 </a>
-
-<br />
-<br />
-
-Hi, I'm Johnny (Dzung), a passionate self-taught full-stack developer from Ho Chi Minh City.
+A passionate self-taught full-stack developer from Ho Chi Minh City.
 
 - 🔭 I’m currently working on [Techbase Vietnam](https://www.techbasevn.com/)
-- 🌱 I’m currently learning Google Cloud, ML & AI.
-- 👯 I’m looking to collaborate on [Viovi.site project](https://viovi.site)
+- 🌱 I’m currently researching Google Cloud, ML and write blog's https://lcdung.top
+- 👯 I'm building website or campaign free on my product [Viovi.site project](https://viovi.site)
 - 💬 Ask me about anything [here](https://github.com/lechidung/lechidung/issues)
 
 **Languages and Framework:**
