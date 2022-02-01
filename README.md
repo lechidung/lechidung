@@ -33,6 +33,8 @@ A passionate self-taught full-stack developer from Ho Chi Minh City.
 <code><img height="20" src="https://github.com/yahoo/athenz/raw/master/docs/images/athenz-logo.png"></code>
 <code><img height="20" src="https://github.com/apache/pulsar/blob/master/site2/website/static/img/pulsar.svg"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechidung&layout=compact&theme=monokai" />
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechidung&layout=compact&theme=monokai" />
+  </a>
+</p>
