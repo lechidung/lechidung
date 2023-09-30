@@ -12,7 +12,6 @@ A passionate self-taught full-stack developer from Ho Chi Minh City.
 
 - 🔭 I’m currently working on [Techbase VietNam Company Limited](https://www.techbasevn.com/about.html)
 - 🌱 I’m currently researching GCP, AWS, ML and writing my blog's https://lcdung.top
-- 🆓 I'm currently building website or campaign free on my product [Viovi.site project](https://viovi.site)
 - 💬 Ask me about anything [here](https://github.com/lechidung/lechidung/issues)
 
 **Languages and Framework:**
