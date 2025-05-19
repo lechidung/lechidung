@@ -1,0 +1,61 @@
+𝐇𝐨𝐰 𝐈 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐌𝐲 𝐂𝐥𝐞𝐚𝐧 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 (𝐅𝐨𝐥𝐝𝐞𝐫 𝐛𝐲 𝐅𝐨𝐥𝐝𝐞𝐫)
+
+Clean Architecture isn’t just about principles, it’s about clarity. A well-structured folder setup keeps your code scalable, testable, and easy to navigate.
+
+𝟏. 𝐃𝐨𝐦𝐚𝐢𝐧 𝐋𝐚𝐲𝐞𝐫
+This is the core of the system, 100% pure C#.
+
+📁 Domain
+├── 📁 DomainEvents
+├── 📁 Entities
+├── 📁 Enumerators
+├── 📁 Constants
+├── 📁 Exceptions
+├── 📁 Repositories
+├── 📁 Shared
+└── 📁 ValueObjects
+
+𝟐. 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐲𝐞𝐫 
+This layer defines what your system should do.
+
+📁 Application
+├── 📁 Abstractions
+│   ├── 📁 Data
+│   ├── 📁 Email
+│   └── 📁 Messaging
+├── 📁 Behaviors
+├── 📁 Contracts
+├── 📁 User
+│   ├── 📁 Commands
+│   └── 📁 Queries
+├── 📁 Order
+│   ├── 📁 Commands
+│   └── 📁 Queries
+└── 📁 UseCases # (Optional)
+
+𝟑. 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐋𝐚𝐲𝐞𝐫
+This is where tech details live. It implements all the abstractions.
+
+📁 Infrastructure
+├── 📁 Data
+│   ├── 📁 Repositories
+│   ├── 📁 Migrations
+│   └── 📁 DataContext
+│     └── ApplicationDbContext.cs
+├── 📁 Messaging
+├── 📁 Services
+└── 📁 Jobs
+
+𝟒. 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐋𝐚𝐲𝐞𝐫
+This is the entry point: Controllers, Endpoints.
+
+📁 Presentation
+├── 📁 Controllers
+├── 📁 Middlewares
+├── 📁 Extensions
+├── 📁 DTOs
+├── 📁 Endpoints   # For Minimal APIs (optional)
+└── 📁 ViewModels  # For frontend or UI rendering (optional)
+
+<img src="/1747014180745.jpeg" />
+
