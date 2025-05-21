@@ -12,7 +12,7 @@
 </a>
 A passionate self-taught full-stack developer from Ho Chi Minh City.
 
-- 🔭 I’m currently working on [Techbase VietNam Company Limited](https://www.techbasevn.com/about.html)
+- 🔭 I’m currently working on [Techbase VietNam Co.Ltd](https://www.techbasevn.com/about.html), [8BitBase Tech Co.Ltd](https://8bitbase.com/), [CTO at TichCo.VN](https://tichco.vn/)
 - 🌱 I’m currently researching GCP, AWS, ML and writing my blog's https://lcdung.top
 - 💬 Ask me about anything [here](https://github.com/lechidung/lechidung/issues)
 <br/>
